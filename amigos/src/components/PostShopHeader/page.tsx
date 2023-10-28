@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const PostShopHeader = () => {
    return ( 
-      <section className="bg-main-color text-[#fff] h-[54px] flex items-center justify-center">
+      <section className="w-full bg-main-color text-[#fff] h-[54px] flex items-center justify-center whitespace-nowrap  xl-min:flex-wrap">
            <section className="flex gap-[60px] ml-[38px] mr-[35px] text-[15px]">
          <div className="flex flex-row gap-[5px]">
             <Image src="/Shop/Bar.svg" alt="Bar" width={20} height={20} />

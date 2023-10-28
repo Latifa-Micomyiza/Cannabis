@@ -8,7 +8,7 @@ const Order = () => {
             <p>Let's get you started</p>
          </section>
          <section>
-         <div className="flex flex-col md:flex-row justify-center items-center gap-16">
+         <div className="flex flex-row md:flex-col justify-center items-center gap-16">
         <div className="flex flex-col p-4 bg-white gap-6 rounded-[25px] shadow">
           <h6>We Aim to Provide The Best Customer Experience</h6>
           <div className="flex justify-center items-center gap-4">

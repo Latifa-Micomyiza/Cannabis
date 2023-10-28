@@ -33,7 +33,7 @@ const Footer = () => {
                </div>
             </section>
          </section>
-         <hr className="w-[1040px] border border-[1px]" />
+         <hr className="w-[1040px] border" />
          <section className="text-[15px] flex gap-28 my-5">
             <section>
                <p>Copyright &copy; 2023 Three Amigos </p>
